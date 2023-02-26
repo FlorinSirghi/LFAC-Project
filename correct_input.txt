@@ -1,0 +1,107 @@
+int x 
+int x1
+int x2
+int y
+int arr[10]
+float f = 20.0 
+float f1
+int const k
+
+function int testFunction(int x, float z) 
+  
+end
+
+function int testFunction(int x, int z) 
+  
+end
+
+function int test(int param1, int param2, float f)
+
+end
+
+newType C1 
+    int o
+endTypeDefinition
+
+newType C2 
+    float k
+    function float print(int c)
+
+    end
+    function int max(int a, int b)
+    int max = 0
+        if(a > b)
+            max = a
+        else
+            max = b
+        endif
+    end
+
+endTypeDefinition
+
+function int entryPoint() 
+
+    int a, b, c
+    float d, e
+    bool g, h, j
+    char l = 'o'
+    string hello = "HEllO"
+
+    a = 2
+    d = -3.2
+    g = true
+    l = 'p'
+    hello = "world"
+    arr[3] = 5
+    b = arr[3]
+    k = arr[3]
+    a = k
+    c = testFunction(a, e)
+
+
+    f = 30.0 
+
+    if(b == c)
+        hello = "HI"
+        h = true
+    else
+        hello = "H"
+    endif
+
+    for(b = 3; b < 100; b = b + 1)
+        if(b == a)
+            l = 't'
+        endif
+    endfor
+
+    if(b > 2 and d == 0.0 or e == 0.0)
+        if(l == 't')
+            g = false
+        else
+            g = true
+        endif
+    else
+        a = 9823
+    endif
+
+    while(1 > 0)
+        e = 2.9832
+        g = true
+    endwhile
+
+    x = 10 x1 = 20 x2 = 30 y = 100
+    if (x1 + test(x1,x2,f) < 5 + x1 and ((x > 2 or x1 < 4+x2) or x == 2))
+	    x = 2
+    endif
+    x = test(test(x1,3,f)+2, y+4, f) + (30 - y * arr[2]) - 10
+
+    x1 = x*100 + 5 * 100 + arr[2]
+    Eval(x*10-100)
+    Eval(x1)
+    Eval(x2* 10-200) 
+    Eval(x+ test(x1,x,f))  	
+    TypeOf(x+23)
+    TypeOf(f-30.0)
+
+    return 2+3
+end

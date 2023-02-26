@@ -1,0 +1,1 @@
+This project implements a compiler using Lex, Yacc, and the C programming language, the compiler has basic functionality such as detecting various errors and making a symbol table both for the variables and functions. It can also compute arithmetic and boolean expressions.

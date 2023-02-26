@@ -1,0 +1,12 @@
+Functiile sunt : 
+Numele functiei este : testFunction, iar return-typeul este : int
+Parametrii sunt : 
+Parametrul are numele: x si tipul: int 
+Parametrul are numele: z si tipul: float 
+Numele functiei este : testFunction, iar return-typeul este : int
+Parametrii sunt : 
+Parametrul are numele: x si tipul: float 
+Parametrul are numele: z si tipul: float 
+Numele functiei este : test, iar return-typeul este : int
+Parametrii sunt : 
+Parametrul are numele: param si tipul: int 

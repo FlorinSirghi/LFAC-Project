@@ -1,0 +1,11 @@
+Simbolurile sunt : 
+Numele identificatorului este : x, tipul este : int
+Valoarea este: 0
+Numele identificatorului este : x1, tipul este : int
+Valoarea este: 0
+Numele identificatorului este : x2, tipul este : int
+Valoarea este: 0
+Numele identificatorului este : f1, tipul este : float
+Valoarea este: 50.000000
+Numele identificatorului este : s, tipul este : string
+Valoarea este: ana
